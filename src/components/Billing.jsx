@@ -33,7 +33,7 @@ const Billing = () => (
         <img
           src={google}
           alt="google_store"
-          className="w-[128px] h-[42px] object-contain  cursor-pointer  "
+          className="w-[128px] h-[42px] object-contain  cursor-pointer"
         />
       </div>
     </div>
